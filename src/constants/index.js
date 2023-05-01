@@ -25,21 +25,21 @@ export const features = [
     icon: star1,
     title: "Rewards",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "We provide the best credit card picks to match your spending and maximize your rewards.",
   },
   {
     id: "feature-2",
     icon: shield2,
     title: "100% Secured",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Our platform is secure and easy to use. Access your financial information and manage your accounts anywhere, at any time.",
   },
   {
     id: "feature-3",
     icon: send1,
-    title: "Balance Transfer",
+    title: "Experts",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Our team of financial experts offers expert advice on everything from budgeting and saving to investing and retirement planning.",
   },
 ];
 
